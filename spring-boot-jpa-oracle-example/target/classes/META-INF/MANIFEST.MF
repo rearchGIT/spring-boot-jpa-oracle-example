@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jpa-oracle-example
+Implementation-Version: 1.5.1.RELEASE
+Built-By: ss
+Implementation-Vendor-Id: com.statestr
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ jpa-oracle-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
